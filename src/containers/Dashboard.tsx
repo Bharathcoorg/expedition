@@ -132,7 +132,7 @@ export default (props: any) => {
           </Grid>
         </Grid>
       </Grid>
-      <StatCharts victoryTheme={victoryTheme} blocks={blocks} />
+     
       <Grid container justify="flex-end">
         <Button
           color="primary"
